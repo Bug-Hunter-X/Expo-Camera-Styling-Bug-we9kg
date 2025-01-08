@@ -1,0 +1,1 @@
+This bug occurs when using the Expo `Camera` component with custom styles.  The preview might not render correctly, or certain features might not work as expected if the styles are applied incorrectly or conflict with Expo's internal styling.
